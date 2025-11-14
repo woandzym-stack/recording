@@ -29,6 +29,7 @@ python app.py
 1. ai_conversation_records.txt AI的沟通记录
 2. architecture_flowChart.png 程序架构图
 3. operation_screenshot.png 操作界面截图
+4. record_video.mp4 操作录像
 
 
 
