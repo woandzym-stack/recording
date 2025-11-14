@@ -11,7 +11,7 @@ pip install -r requirements.txt
 
 2. 配置环境变量
 
-编辑.env文件，将Agora和阿里云的OSS的参数进行配置
+编辑.env文件，将Agora和阿里云OSS的参数进行配置
 
 3. 运行应用
 
